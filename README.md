@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Vishal!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 <p align="center">
-  B.Tech @ GLA University &nbsp;·&nbsp; Building ML systems, automation tools &amp; solving DSA daily
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vishal!;B.Tech+%40+GLA+University;Building+ML+Systems+%26+Diffusion+Models;Automating+workflows+with+n8n;Solving+DSA+daily" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -16,14 +16,13 @@
 
 ---
 
-```yaml
-about_me:
-  role: "B.Tech student, GLA University"
-  focus: ["Generative AI / Diffusion Models", "Automation (n8n)", "Competitive Programming"]
-  currently_building: "Text-to-image diffusion model — DDIM sampler, cross-attention, scaling to COCO/Flickr30k"
-  currently_solving: "DSA daily — Fenwick trees, DSU, segment trees, DP, across LeetCode / Codeforces / GFG"
-  looking_for: "SDE / ML placement opportunities"
-```
+### 👋 About Me
+
+- 🎓 **B.Tech** student, GLA University
+- 🧠 Focus areas: `Generative AI / Diffusion Models` · `Automation (n8n)` · `Competitive Programming`
+- 🔨 Currently building: Text-to-image diffusion model — DDIM sampler, cross-attention, scaling to COCO/Flickr30k
+- 🧮 Currently solving: DSA daily — Fenwick trees, DSU, segment trees, DP across LeetCode / Codeforces / GFG
+- 🎯 Looking for: **SDE / ML placement opportunities**
 
 ### 🚀 Projects
 
